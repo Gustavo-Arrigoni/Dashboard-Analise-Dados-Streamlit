@@ -1,5 +1,6 @@
+streamlit
 pandas
-streamlit
-plotly
-streamlit
+pyarrow==15.0.2
 altair==4.2.2
+numpy
+plotly
